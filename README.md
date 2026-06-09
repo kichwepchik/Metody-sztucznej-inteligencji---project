@@ -133,7 +133,7 @@ git clone https://github.com/kichwepchik/Metody-sztucznej-inteligencji---project
 Przejście do katalogu projektu:
 
 ```bash
-cd AI-Gesture-Controller
+cd Metody-sztucznej-inteligencji---project
 ```
 
 ---
