@@ -127,7 +127,7 @@ AI-Gesture-Controller/
 ### 1. Klonowanie repozytorium
 
 ```bash
-git clone https://github.com/TWOJ_LOGIN/AI-Gesture-Controller.git
+git clone https://github.com/kichwepchik/Metody-sztucznej-inteligencji---project.git
 ```
 
 Przejście do katalogu projektu:
